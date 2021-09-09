@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set start and end date
-START_DATE="2021-0179-2"  # YYYY-MM-DD
+START_DATE="2021-09-2"  # YYYY-MM-DD
 END_DATE="2021-10-24"    # YYYY-MM-DD
 
 # Min and max commits per selected day
