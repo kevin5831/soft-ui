@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # Set start and end date
-START_DATE="2023-10-2"  # YYYY-MM-DD
-END_DATE="2023-10-24"    # YYYY-MM-DD
+START_DATE="2023-07-2"  # YYYY-MM-DD
+END_DATE="2023-07-24"    # YYYY-MM-DD
 
 # Min and max commits per selected day
 MIN_COMMITS=1
-MAX_COMMITS=4
+MAX_COMMITS=8
 
 # Min and max days per month to commit
 MIN_DAYS_PER_MONTH=7
